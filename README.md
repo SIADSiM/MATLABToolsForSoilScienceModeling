@@ -2,7 +2,7 @@
 
 This repository provides a collection of MATLAB functions for simulating and analyzing key soil processes. It integrates models for soil physics, hydrology, biogeochemistry, and erosion, with a focus on research reproducibility, adherence to peer-reviewed references, and consistent use of SI units.
 
-## Repository Structure
+## ⚓ Repository Structure
 
 The repository is organized into the following directories:
 
@@ -13,7 +13,7 @@ The repository is organized into the following directories:
 - `/tests`: Unit tests for all functions, built using the MATLAB Unit Test Framework.
 - `/examples`: Example scripts that demonstrate how to use the functions and generate visualizations.
 
-## Installation and Usage
+## 👷‍♂️ Installation and Usage
 
 1.  **Clone or download the repository** to your local machine.
 2.  **Open MATLAB**.
@@ -30,7 +30,7 @@ The repository is organized into the following directories:
     ```
 5.  **Explore the example scripts** in the `/examples` directory to see how each function can be used and to generate plots of key processes.
 
-## Function Reference
+## 🧩 Function Reference
 
 Below are usage examples for each of the core functions in this repository.
 
@@ -208,22 +208,31 @@ A = soilErosionUSLE(R, K, LS, C, P)
 % Expected output: 2.55 t/ha/yr
 ```
 
-## Model Architecture (UML)
+## 🧩 Model Architecture (UML)
 
 A UML diagram illustrating the functional dependencies between the modules is available in the `uml_diagram.md` file. It can be rendered using any Markdown viewer with Mermaid support (like the default view on GitHub).
 
-## Scientific References
+## 📜 License
+
+This project is licensed under a custom non-commercial license.
+
+* ✅ **Free for personal, academic, and research use.**
+* ❌ **Commercial use is strictly prohibited without a separate license.**
+
+For commercial licensing inquiries, please contact me at ** s i a d s i m @ g m a i l . c o m  **.
+
+## 📑 References
 
 Allen, R.G., Pereira, L.S., Raes, D., & Smith, M. (1998). *Crop Evapotranspiration — Guidelines for computing crop water requirements*. FAO Irrigation and Drainage Paper 56.
 
-Green, W.H., & Ampt, G.A. (1911). Studies on soil physics. *The Journal of Agricultural Science, 4*(1), 1–24.
+Green, W.H. & Ampt, G.A. (1911). Studies on soil physics. *The Journal of Agricultural Science, 4*(1), 1-24.
 
 Hillel, D. (1998). *Environmental Soil Physics*. Academic Press.
 
-Lloyd, J., & Taylor, J.A. (1994). On the temperature dependence of soil respiration. *Functional Ecology, 8*(3), 315–323.
+Lloyd, J. & Taylor, J.A. (1994). On the temperature dependence of soil respiration. *Functional Ecology, 8*(3), 315-323.
 
-Parton, W.J., Schimel, D.S., Cole, C.V., & Ojima, D.S. (1987). Analysis of factors controlling soil organic matter levels in Great Plains grasslands. *Soil Science Society of America Journal, 51*(5), 1173–1179.
+Parton, W.J., Schimel, D.S., Cole, C.V., & Ojima, D.S. (1987). Analysis of factors controlling soil organic matter levels in Great Plains grasslands. *Soil Science Society of America Journal, 51*(5), 1173-1179.
 
-van Genuchten, M.T. (1980). A closed-form equation for predicting the hydraulic conductivity of unsaturated soils. *Soil Science Society of America Journal, 44*(5), 892–898.
+van Genuchten, M.T. (1980). A closed-form equation for predicting the hydraulic conductivity of unsaturated soils. *Soil Science Society of America Journal, 44*(5), 892-898.
 
 Wischmeier, W.H., & Smith, D.D. (1978). *Predicting rainfall erosion losses*. USDA Agriculture Handbook 537.
