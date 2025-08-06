@@ -1,5 +1,6 @@
 # MATLAB Tools For Soil Science Modeling
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16748419.svg)](https://doi.org/10.5281/zenodo.16748419)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSIADSiM%2FMATLABToolsForSoilScienceModeling.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSIADSiM%2FMATLABToolsForSoilScienceModeling?ref=badge_shield)
 
 This repository provides a collection of MATLAB functions for simulating and analyzing key soil processes. It integrates models for soil physics, hydrology, biogeochemistry, and erosion, with a focus on research reproducibility, adherence to peer-reviewed references, and consistent use of SI units.
 
@@ -221,6 +222,9 @@ This project is licensed under a custom non-commercial license.
 * ❌ **Commercial use is strictly prohibited without a separate license.**
 
 For commercial licensing inquiries, please contact me at ** s i a d s i m @ g m a i l . c o m  **.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSIADSiM%2FMATLABToolsForSoilScienceModeling.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSIADSiM%2FMATLABToolsForSoilScienceModeling?ref=badge_large)
 
 ## 📑 References
 
